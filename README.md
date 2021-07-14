@@ -17,7 +17,7 @@ Video tutorial: https://www.youtube.com/watch?v=JZ6Jc-cvKX8
 
 Please, follow these steps to be able to run the code:
 1. Install the dependencies listed in _requirements.txt_
-2. Download the sample data into the _data/eventing_ (StatsBomb) and _data/tracking_ (Metrica Sports) folders.
+2. Download the sample data into the _data/eventing_ (StatsBomb open-data/data) and _data/tracking_ (Metrica Sports sample-data/data) folders.
 3. (Optional) Run the _prepare_vaep.py_ script which trains a model with StatsBomb's data and computes and sets the VAEP metric for each action in the eventing dataset. It might take some minutes.
 
 Now you are ready to go!
